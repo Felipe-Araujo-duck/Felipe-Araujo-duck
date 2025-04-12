@@ -1,4 +1,4 @@
-## Olá! Eu sou o Felipe Araujo, sou estudante de ciência da computação cursando 5° período
+## Olá! Eu sou o Felipe Araujo, sou estudante de ciência da computação cursando 7° período
 <div align="center">
   <a href="https://github.com/Felipe-Araujo-duck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Araujo-duck&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
