@@ -7,7 +7,6 @@
 <div align="center">
   <a href="https://github.com/Felipe-Araujo-duck">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-araujo-duck&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Felipe-araujo-duck&theme=vue-dark&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-araujo-duck&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
   </a>
 </div>
